@@ -1,0 +1,63 @@
+{
+    "subtitle": "Welcome to my world",
+    "title": "Hi, I’m Jone Lee",
+    "headline": [
+      "Developer.",
+      "Professional Coder.",
+      "Developer."
+    ],
+    "description": "I use animation as a third dimension by which to simplify experiences and guiding through each and every interaction. I’m not adding motion just to spruce things up, but doing it in ways that.",
+    "socialLinks": [
+      { "platform": "facebook", "url": "https://facebook.com/yourprofile" },
+      { "platform": "instagram", "url": "https://instagram.com/yourprofile" },
+      { "platform": "linkedin", "url": "https://linkedin.com/in/yourprofile" }
+    ],
+    "skills": [
+      "assets/images/icons/icons-01.png",
+      "assets/images/icons/icons-02.png",
+      "assets/images/icons/icons-03.png"
+    ],
+    "imageSrc": "assets/images/slider/banner-01.png",
+    "services": [
+        {
+          "icon": "menu",
+          "title": "Business Strategy",
+          "description": "I throw myself down among the tall grass by the stream as I lie close to the earth.",
+          "link": "#"
+        },
+        {
+          "icon": "book-open",
+          "title": "App Development",
+          "description": "It uses a dictionary of over 200 Latin words, combined with a handful of model sentence.",
+          "link": "#"
+        },
+        {
+          "icon": "tv",
+          "title": "App Development",
+          "description": "I throw myself down among the tall grass by the stream as I lie close to the earth.",
+          "link": "#"
+        }
+      ],
+        "portfolio": [
+          {
+            "image": "assets/images/portfolio/portfolio-01.jpg",
+            "category": "Development",
+            "title": "The services provide for design",
+            "likes": 0
+          },
+          {
+            "image": "assets/images/portfolio/portfolio-02.jpg",
+            "category": "Application",
+            "title": "Mobile app landing design & app maintain",
+            "likes": 750
+          },
+          {
+            "image": "assets/images/portfolio/portfolio-03.jpg",
+            "category": "Photoshop",
+            "title": "Logo design creativity & Application",
+            "likes": 630
+          }
+        ]
+        
+  }
+  

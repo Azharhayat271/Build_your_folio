@@ -1,0 +1,31 @@
+{
+  "contact": {
+    "title": "Contact With Me",
+    "subtitle": "Contact",
+    "about": {
+      "name": "Nevine Acotanza",
+      "position": "Chief Operating Officer",
+      "description": "I am available for freelance work. Connect with me via and call in to my account.",
+      "phone": "+01234567890",
+      "email": "admin@example.com",
+      "image": "assets/images/contact/contact1.png",
+      "socialLinks": [
+        {
+          "platform": "Facebook",
+          "url": "#",
+          "icon": "FaFacebookSquare"
+        },
+        {
+          "platform": "LinkedIn",
+          "url": "#",
+          "icon": "CiLinkedin"
+        },
+        {
+          "platform": "Instagram",
+          "url": "#",
+          "icon": "FaInstagram"
+        }
+      ]
+    }
+  }
+}
