@@ -1,4 +1,5 @@
 import React from "react";
+import Logo from "./../../../../assets/images/logo/mains.png";
 
 const header = () => {
   return (
@@ -10,7 +11,7 @@ const header = () => {
             <div class="header-left">
               <div class="logo">
                 <a href="index.html">
-                  <img src="assets/images/logo/logo-dark.png" alt="logo" />
+                  <img src={Logo} alt="logo" style={{maxWidth: "60%"}} />
                 </a>
               </div>
             </div>
